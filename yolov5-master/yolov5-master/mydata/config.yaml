@@ -1,0 +1,6 @@
+
+train: E:\yolov5\yolov5-master\yolov5-master\mydata\train.txt
+val: E:\yolov5\yolov5-master\yolov5-master\mydata\val.txt
+
+nc: 4
+names: ['A','B','C','D']

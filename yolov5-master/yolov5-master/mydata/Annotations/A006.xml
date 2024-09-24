@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>A006.jpg</filename>
+	<path>E:\yolov5\yolov5-master\yolov5-master\mydata\images\A006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>492</ymin>
+			<xmax>842</xmax>
+			<ymax>1578</ymax>
+		</bndbox>
+	</object>
+</annotation>

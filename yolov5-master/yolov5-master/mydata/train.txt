@@ -1,0 +1,10 @@
+E:\yolov5\yolov5-master\yolov5-master\mydata\images\A002.jpg
+E:\yolov5\yolov5-master\yolov5-master\mydata\images\A003.jpg
+E:\yolov5\yolov5-master\yolov5-master\mydata\images\A004.jpg
+E:\yolov5\yolov5-master\yolov5-master\mydata\images\A005.jpg
+E:\yolov5\yolov5-master\yolov5-master\mydata\images\A006.jpg
+E:\yolov5\yolov5-master\yolov5-master\mydata\images\B001.jpg
+E:\yolov5\yolov5-master\yolov5-master\mydata\images\B002.jpg
+E:\yolov5\yolov5-master\yolov5-master\mydata\images\B003.jpg
+E:\yolov5\yolov5-master\yolov5-master\mydata\images\B004.jpg
+E:\yolov5\yolov5-master\yolov5-master\mydata\images\B007.jpg

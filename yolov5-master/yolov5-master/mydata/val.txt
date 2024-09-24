@@ -1,0 +1,2 @@
+E:\yolov5\yolov5-master\yolov5-master\mydata\images\A001.jpg
+E:\yolov5\yolov5-master\yolov5-master\mydata\images\B005.jpg
